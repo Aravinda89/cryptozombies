@@ -8,6 +8,7 @@ contract ZombieFactory {
     struct Zombie {
         string name;
         uint dna;
+        
     }
 
 }
